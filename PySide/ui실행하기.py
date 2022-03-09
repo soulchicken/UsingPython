@@ -19,3 +19,6 @@ if __name__ == "__main__":
 # 디자이너 경로 : ./myvenv/lib/python3.10/site-packages/PySide6/Designer.app/Contents/MacOS/Designer
 # uci 경로 : ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic
 #  (uci 경로) -g python (해당파일명).ui > (만들경로/만들파일명).py
+# ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic -g python (해당파일경로/해당파일명).ui > (만들경로/만들파일명).py
+
+# ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic -g python (해당파일경로/해당파일명).ui > (만들경로/만들파일명).py
