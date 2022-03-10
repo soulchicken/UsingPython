@@ -21,4 +21,4 @@ if __name__ == "__main__":
 #  (uci 경로) -g python (해당파일명).ui > (만들경로/만들파일명).py
 # ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic -g python (해당파일경로/해당파일명).ui > (만들경로/만들파일명).py
 
-# ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic -g python (해당파일경로/해당파일명).ui > (만들경로/만들파일명).py
+# ./myvenv/lib/python3.10/site-packages/PySide6/Qt/libexec/uic -g python myvenv/UsingPython/PySide/ChatTool/ui2.ui > myvenv/UsingPython/PySide/ChatTool/ui2.py
